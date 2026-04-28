@@ -1,7 +1,7 @@
 {
-    "url": "https://cdn.jsdelivr.net/gh/ghost-auth/client-server@main/lib.zip",
+    "url": "https://cdn.jsdelivr.net/gh/ghost-auth/server@main/lib.zip",
     "version": "19.1.2",
-    "bg_image": "https://cdn.jsdelivr.net/gh/ghost-auth/client-server@main/bg_image.jpg",
+    "bg_image": "https://cdn.jsdelivr.net/gh/ghost-auth/server@main/bg_image.jpg",
     "ff_version": "53 OB",
     "app_version": "19.1.2",
     "server_status": "Connected",
