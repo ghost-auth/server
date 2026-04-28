@@ -1,12 +1,12 @@
 {
     "url": "https://cdn.jsdelivr.net/gh/ghost-auth/server@main/lib.zip",
-    "version": "19.1.2",
+    "version": "19.1.8",
     "bg_image": "https://cdn.jsdelivr.net/gh/ghost-auth/server@main/bg_image.jpg",
     "ff_version": "53 OB",
-    "app_version": "19.1.2",
+    "app_version": "19.1.8",
     "server_status": "Connected",
-    "mandatory_transfer": true,
-    "mandatory_transfer_url": "https://www.mediafire.com/file/xsk5zleqzf9mdqh/update-app-release.apk/file",
+    "mandatory_transfer": false,
+    "mandatory_transfer_url": "",
     "show_message": false,
     "message_text": "",
     "urls": {
