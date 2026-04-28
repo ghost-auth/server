@@ -1,1 +1,29 @@
-
+{
+    "url": "https://cdn.jsdelivr.net/gh/ghost-auth/client-server@main/lib.zip",
+    "version": "19.1.2",
+    "bg_image": "https://cdn.jsdelivr.net/gh/ghost-auth/client-server@main/bg_image.jpg",
+    "ff_version": "53 OB",
+    "app_version": "19.1.2",
+    "server_status": "Connected",
+    "mandatory_transfer": true,
+    "mandatory_transfer_url": "https://www.mediafire.com/file/xsk5zleqzf9mdqh/update-app-release.apk/file",
+    "show_message": false,
+    "message_text": "",
+    "urls": {
+        "redirect": "https://getkey-ghost.vercel.app",
+        "faq": "https://ghostfree.free.bg/Questions.html",
+        "instagram": "https://www.instagram.com/ghost.auth",
+        "activation": "https://getkey-ghost.vercel.app/"
+    },
+    "design": {
+        "app_title": "GHOST BOT",
+        "app_title_color": "#E50914",
+        "app_title_size": 20.0,
+        "badge_text": " X19",
+        "badge_color": "#FFFFFF",
+        "badge_size": 16.0,
+        "version_text": "Version X 19 (Stable)",
+        "version_color": "#444444",
+        "version_size": 10.0
+    }
+}
